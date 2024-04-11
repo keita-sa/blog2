@@ -13,14 +13,14 @@ This code ...
 
 ### Prerequisites
 
-- Go 1.20
-- gorilla/mux v1.8.X
+- Python 3.x
+- Django 4.x.x
 
 
 ### Setup
 To set up the routes which mean endpoints, you need to install the `gorilla/mux`. You can do this by running:
 ```
-go get -u github.com/gorilla/mux
+% go get -u github.com/gorilla/mux
 ```
 
 pages:
