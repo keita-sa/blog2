@@ -18,7 +18,7 @@ This code ...
 
 
 ### Setup
-To set up the routes which mean endpoints, you need to install the `gorilla/mux`. You can do this by running:
+The following setup preparations on the command line are required for the implementation.
 ```
 # macOS
 % mkdir blog
