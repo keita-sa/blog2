@@ -4,11 +4,6 @@ Blog App, 2nd time
 ## Overview
 This code ...
 
-## Features
-
-- Route by a combination of paths and **HTTP methods** such as GET, POST, PUT and DELETE.
-- Test web APIs with Postman. 
-
 ## Installation
 
 ### Prerequisites
