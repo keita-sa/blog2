@@ -27,6 +27,6 @@ The following setup preparations on the command line are required for the implem
 ```
 
 ## Access to each pages:
-- `base.html` https://keita-sa.github.io/blog2/templates/base.html
-- `home.html` https://keita-sa.github.io/blog2/templates/home.html
-- `post_new.html` https://keita-sa.github.io/blog2/templates/post_new.html
+- `base.html`: https://keita-sa.github.io/blog2/templates/base.html
+- `home.html`: https://keita-sa.github.io/blog2/templates/home.html
+- `post_new.html`: https://keita-sa.github.io/blog2/templates/post_new.html
